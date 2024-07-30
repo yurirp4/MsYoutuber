@@ -37,8 +37,6 @@ Imagens demonstrativas
 
 <a href="https://www.spigotmc.org/resources/msyotube-apenas-mais-1-plugin-da-linha-msplugins.45824/history">Link para donwload</a>.
 
-![44428](https://github.com/user-attachments/assets/9723d2b2-012f-4c65-a219-c6997f1599e7)  ![267929-03e3c49873041dc45b76767d7de15db4](https://github.com/user-attachments/assets/e38949b4-73a1-48d9-8669-b4b6b90be115) ![0a8ef67ab071fa82bd3df2802ae379e4f9a2b0ab](https://github.com/user-attachments/assets/3af65b8e-f4a9-4fd1-a31e-6c0a1cb22ece)
-
 
 <div align="center">
   Meu intuito na programação foi auxiliar aqueles que precisam de uma forma simples e compacta, e durante meus anos programando para o minecraft, senti que ajudei muitas pessoas, e isso me gratifica!
