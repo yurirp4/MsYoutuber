@@ -1,0 +1,9 @@
+name: MsYoutuber
+version: 1.0
+author: yurirp4
+main: Msyoutube.Main
+Description: MsYoutuber Mais Um Plugin Da Linha MsPlugins
+commands:
+  youtuber:
+    aliases: [yt,youtube]
+    description: Use Para Saber Os Requesitos Para Ser Youtuber

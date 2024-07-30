@@ -1,0 +1,22 @@
+ #############################
+ # Permissão: X              #
+ # comandos : /youtuber , /yt#     
+ # Criador: yurirp4          #
+ # Skype: Filipe Silva amy   #
+ # version: 1.0              #
+ # plugin 100% Editavel      #
+ #############################
+ 
+Lore:
+ - '&8• &7Click Para Ver Os Requisito'
+ - '&8• &7Para Se Torna Um Youtuber No Servidor'
+ - ''
+ #Recomendo Não Mexer Nisso Muito !
+ 
+Youtuber:
+ - '&7[&cYoutuber&7]'
+ - '&2» &7Inscritos: &a400 Subs'
+ - '&2» &7Visualizações: &a80 View' 
+ - '&2» &7FeedBack: &aBom'
+ #Quaso Queria Algum Alteração Grave Me Chame Skype : Filipe Silva amy
+ 
